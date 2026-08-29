@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T18:37:37",
+ "generated_at": "2026-08-29T19:05:14",
  "as_of": "2026-08-23",
  "season": "2026/27",
  "league": "J1",
@@ -4236,9 +4236,6 @@
   "p75": 45,
   "safe": 46
  },
- "trials": 20000,
- "relegation_slots": 3,
- "confidence": "low",
  "history": [
   {
    "season": "2025",
@@ -4264,5 +4261,8 @@
    "below": 34,
    "champ": 71
   }
- ]
+ ],
+ "trials": 20000,
+ "relegation_slots": 3,
+ "confidence": "low"
 }
