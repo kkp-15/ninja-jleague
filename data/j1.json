@@ -1,0 +1,4268 @@
+{
+ "generated_at": "2026-08-29T18:37:37",
+ "as_of": "2026-08-23",
+ "season": "2026/27",
+ "league": "J1",
+ "total_sections": 38,
+ "played": 30,
+ "pending": 350,
+ "standings": [
+  {
+   "team": "町田",
+   "g": 3,
+   "w": 3,
+   "d": 0,
+   "l": 0,
+   "gf": 12,
+   "ga": 2,
+   "pts": 9,
+   "gd": 10,
+   "rank": 1,
+   "rest": 35,
+   "max": 114,
+   "min": 9,
+   "prob": {
+    "champ": 22.4,
+    "top3": 51.0,
+    "releg": 0.5,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "柏",
+   "g": 3,
+   "w": 3,
+   "d": 0,
+   "l": 0,
+   "gf": 9,
+   "ga": 4,
+   "pts": 9,
+   "gd": 5,
+   "rank": 2,
+   "rest": 35,
+   "max": 114,
+   "min": 9,
+   "prob": {
+    "champ": 21.2,
+    "top3": 50.5,
+    "releg": 0.5,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "鹿島",
+   "g": 3,
+   "w": 3,
+   "d": 0,
+   "l": 0,
+   "gf": 9,
+   "ga": 6,
+   "pts": 9,
+   "gd": 3,
+   "rank": 3,
+   "rest": 35,
+   "max": 114,
+   "min": 9,
+   "prob": {
+    "champ": 21.0,
+    "top3": 51.0,
+    "releg": 0.4,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "広島",
+   "g": 3,
+   "w": 2,
+   "d": 1,
+   "l": 0,
+   "gf": 8,
+   "ga": 2,
+   "pts": 7,
+   "gd": 6,
+   "rank": 4,
+   "rest": 35,
+   "max": 112,
+   "min": 7,
+   "prob": {
+    "champ": 9.4,
+    "top3": 30.3,
+    "releg": 1.8,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "横浜FM",
+   "g": 3,
+   "w": 2,
+   "d": 0,
+   "l": 1,
+   "gf": 5,
+   "ga": 4,
+   "pts": 6,
+   "gd": 1,
+   "rank": 5,
+   "rest": 35,
+   "max": 111,
+   "min": 6,
+   "prob": {
+    "champ": 5.9,
+    "top3": 22.5,
+    "releg": 3.1,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "Ｃ大阪",
+   "g": 3,
+   "w": 2,
+   "d": 0,
+   "l": 1,
+   "gf": 3,
+   "ga": 4,
+   "pts": 6,
+   "gd": -1,
+   "rank": 6,
+   "rest": 35,
+   "max": 111,
+   "min": 6,
+   "prob": {
+    "champ": 5.4,
+    "top3": 20.2,
+    "releg": 3.3,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "水戸",
+   "g": 3,
+   "w": 1,
+   "d": 1,
+   "l": 1,
+   "gf": 5,
+   "ga": 4,
+   "pts": 4,
+   "gd": 1,
+   "rank": 7,
+   "rest": 35,
+   "max": 109,
+   "min": 4,
+   "prob": {
+    "champ": 2.0,
+    "top3": 9.3,
+    "releg": 9.1,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "神戸",
+   "g": 3,
+   "w": 1,
+   "d": 1,
+   "l": 1,
+   "gf": 3,
+   "ga": 3,
+   "pts": 4,
+   "gd": 0,
+   "rank": 8,
+   "rest": 35,
+   "max": 109,
+   "min": 4,
+   "prob": {
+    "champ": 2.0,
+    "top3": 9.1,
+    "releg": 9.2,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "岡山",
+   "g": 3,
+   "w": 1,
+   "d": 1,
+   "l": 1,
+   "gf": 2,
+   "ga": 2,
+   "pts": 4,
+   "gd": 0,
+   "rank": 9,
+   "rest": 35,
+   "max": 109,
+   "min": 4,
+   "prob": {
+    "champ": 1.7,
+    "top3": 8.9,
+    "releg": 9.3,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "Ｇ大阪",
+   "g": 3,
+   "w": 1,
+   "d": 1,
+   "l": 1,
+   "gf": 6,
+   "ga": 7,
+   "pts": 4,
+   "gd": -1,
+   "rank": 10,
+   "rest": 35,
+   "max": 109,
+   "min": 4,
+   "prob": {
+    "champ": 1.8,
+    "top3": 8.8,
+    "releg": 9.9,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "FC東京",
+   "g": 3,
+   "w": 1,
+   "d": 1,
+   "l": 1,
+   "gf": 5,
+   "ga": 7,
+   "pts": 4,
+   "gd": -2,
+   "rank": 11,
+   "rest": 35,
+   "max": 109,
+   "min": 4,
+   "prob": {
+    "champ": 1.6,
+    "top3": 8.1,
+    "releg": 10.4,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "福岡",
+   "g": 3,
+   "w": 1,
+   "d": 0,
+   "l": 2,
+   "gf": 5,
+   "ga": 4,
+   "pts": 3,
+   "gd": 1,
+   "rank": 12,
+   "rest": 35,
+   "max": 108,
+   "min": 3,
+   "prob": {
+    "champ": 0.9,
+    "top3": 5.3,
+    "releg": 15.4,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "名古屋",
+   "g": 3,
+   "w": 1,
+   "d": 0,
+   "l": 2,
+   "gf": 4,
+   "ga": 4,
+   "pts": 3,
+   "gd": 0,
+   "rank": 13,
+   "rest": 35,
+   "max": 108,
+   "min": 3,
+   "prob": {
+    "champ": 1.1,
+    "top3": 5.3,
+    "releg": 15.2,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "川崎Ｆ",
+   "g": 3,
+   "w": 0,
+   "d": 3,
+   "l": 0,
+   "gf": 4,
+   "ga": 4,
+   "pts": 3,
+   "gd": 0,
+   "rank": 14,
+   "rest": 35,
+   "max": 108,
+   "min": 3,
+   "prob": {
+    "champ": 1.0,
+    "top3": 4.8,
+    "releg": 15.9,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "清水",
+   "g": 3,
+   "w": 1,
+   "d": 0,
+   "l": 2,
+   "gf": 1,
+   "ga": 2,
+   "pts": 3,
+   "gd": -1,
+   "rank": 15,
+   "rest": 35,
+   "max": 108,
+   "min": 3,
+   "prob": {
+    "champ": 0.9,
+    "top3": 5.2,
+    "releg": 16.1,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "長崎",
+   "g": 3,
+   "w": 1,
+   "d": 0,
+   "l": 2,
+   "gf": 4,
+   "ga": 6,
+   "pts": 3,
+   "gd": -2,
+   "rank": 16,
+   "rest": 35,
+   "max": 108,
+   "min": 3,
+   "prob": {
+    "champ": 1.0,
+    "top3": 4.8,
+    "releg": 16.0,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "東京Ｖ",
+   "g": 3,
+   "w": 0,
+   "d": 2,
+   "l": 1,
+   "gf": 2,
+   "ga": 4,
+   "pts": 2,
+   "gd": -2,
+   "rank": 17,
+   "rest": 35,
+   "max": 107,
+   "min": 2,
+   "prob": {
+    "champ": 0.4,
+    "top3": 2.5,
+    "releg": 25.2,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "京都",
+   "g": 3,
+   "w": 0,
+   "d": 1,
+   "l": 2,
+   "gf": 4,
+   "ga": 7,
+   "pts": 1,
+   "gd": -3,
+   "rank": 18,
+   "rest": 35,
+   "max": 106,
+   "min": 1,
+   "prob": {
+    "champ": 0.2,
+    "top3": 1.2,
+    "releg": 37.7,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "浦和",
+   "g": 3,
+   "w": 0,
+   "d": 0,
+   "l": 3,
+   "gf": 5,
+   "ga": 11,
+   "pts": 0,
+   "gd": -6,
+   "rank": 19,
+   "rest": 35,
+   "max": 105,
+   "min": 0,
+   "prob": {
+    "champ": 0.1,
+    "top3": 0.5,
+    "releg": 50.0,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "千葉",
+   "g": 3,
+   "w": 0,
+   "d": 0,
+   "l": 3,
+   "gf": 0,
+   "ga": 9,
+   "pts": 0,
+   "gd": -9,
+   "rank": 20,
+   "rest": 35,
+   "max": 105,
+   "min": 0,
+   "prob": {
+    "champ": 0.1,
+    "top3": 0.6,
+    "releg": 51.2,
+    "acl": 0.0
+   }
+  }
+ ],
+ "games": [
+  {
+   "section": 1,
+   "date": "2026-08-07",
+   "home": "横浜FM",
+   "away": "鹿島",
+   "status": "played",
+   "hg": 3,
+   "ag": 4,
+   "venue": "MUFG国立"
+  },
+  {
+   "section": 1,
+   "date": "2026-08-07",
+   "home": "Ｇ大阪",
+   "away": "浦和",
+   "status": "played",
+   "hg": 4,
+   "ag": 3,
+   "venue": "パナスタ"
+  },
+  {
+   "section": 1,
+   "date": "2026-08-08",
+   "home": "Ｃ大阪",
+   "away": "岡山",
+   "status": "played",
+   "hg": 2,
+   "ag": 1,
+   "venue": "ハナサカ"
+  },
+  {
+   "section": 1,
+   "date": "2026-08-08",
+   "home": "名古屋",
+   "away": "清水",
+   "status": "played",
+   "hg": 0,
+   "ag": 1,
+   "venue": "豊田ス"
+  },
+  {
+   "section": 1,
+   "date": "2026-08-08",
+   "home": "福岡",
+   "away": "神戸",
+   "status": "played",
+   "hg": 0,
+   "ag": 1,
+   "venue": "ベススタ"
+  },
+  {
+   "section": 1,
+   "date": "2026-08-08",
+   "home": "柏",
+   "away": "水戸",
+   "status": "played",
+   "hg": 2,
+   "ag": 1,
+   "venue": "三協Ｆ柏"
+  },
+  {
+   "section": 1,
+   "date": "2026-08-08",
+   "home": "FC東京",
+   "away": "町田",
+   "status": "played",
+   "hg": 1,
+   "ag": 5,
+   "venue": "味スタ"
+  },
+  {
+   "section": 1,
+   "date": "2026-08-08",
+   "home": "広島",
+   "away": "千葉",
+   "status": "played",
+   "hg": 3,
+   "ag": 0,
+   "venue": "Ｅピース"
+  },
+  {
+   "section": 1,
+   "date": "2026-08-09",
+   "home": "東京Ｖ",
+   "away": "川崎Ｆ",
+   "status": "played",
+   "hg": 1,
+   "ag": 1,
+   "venue": "味スタ"
+  },
+  {
+   "section": 1,
+   "date": "2026-08-09",
+   "home": "長崎",
+   "away": "京都",
+   "status": "played",
+   "hg": 2,
+   "ag": 1,
+   "venue": "ピースタ"
+  },
+  {
+   "section": 2,
+   "date": "2026-08-14",
+   "home": "東京Ｖ",
+   "away": "柏",
+   "status": "played",
+   "hg": 1,
+   "ag": 3,
+   "venue": "MUFG国立"
+  },
+  {
+   "section": 2,
+   "date": "2026-08-15",
+   "home": "水戸",
+   "away": "Ｇ大阪",
+   "status": "played",
+   "hg": 1,
+   "ag": 1,
+   "venue": "水戸信ス"
+  },
+  {
+   "section": 2,
+   "date": "2026-08-15",
+   "home": "鹿島",
+   "away": "名古屋",
+   "status": "played",
+   "hg": 2,
+   "ag": 1,
+   "venue": "メルスタ"
+  },
+  {
+   "section": 2,
+   "date": "2026-08-15",
+   "home": "清水",
+   "away": "横浜FM",
+   "status": "played",
+   "hg": 0,
+   "ag": 1,
+   "venue": "アイスタ"
+  },
+  {
+   "section": 2,
+   "date": "2026-08-15",
+   "home": "岡山",
+   "away": "長崎",
+   "status": "played",
+   "hg": 1,
+   "ag": 0,
+   "venue": "ＪＦＥス"
+  },
+  {
+   "section": 2,
+   "date": "2026-08-15",
+   "home": "福岡",
+   "away": "Ｃ大阪",
+   "status": "played",
+   "hg": 3,
+   "ag": 0,
+   "venue": "ベススタ"
+  },
+  {
+   "section": 2,
+   "date": "2026-08-15",
+   "home": "川崎Ｆ",
+   "away": "京都",
+   "status": "played",
+   "hg": 2,
+   "ag": 2,
+   "venue": "Ｕ等々力"
+  },
+  {
+   "section": 2,
+   "date": "2026-08-15",
+   "home": "浦和",
+   "away": "広島",
+   "status": "played",
+   "hg": 1,
+   "ag": 4,
+   "venue": "埼玉"
+  },
+  {
+   "section": 2,
+   "date": "2026-08-15",
+   "home": "神戸",
+   "away": "FC東京",
+   "status": "played",
+   "hg": 2,
+   "ag": 2,
+   "venue": "ノエスタ"
+  },
+  {
+   "section": 2,
+   "date": "2026-08-15",
+   "home": "千葉",
+   "away": "町田",
+   "status": "played",
+   "hg": 0,
+   "ag": 4,
+   "venue": "フクアリ"
+  },
+  {
+   "section": 3,
+   "date": "2026-08-21",
+   "home": "柏",
+   "away": "長崎",
+   "status": "played",
+   "hg": 4,
+   "ag": 2,
+   "venue": "三協Ｆ柏"
+  },
+  {
+   "section": 3,
+   "date": "2026-08-21",
+   "home": "FC東京",
+   "away": "千葉",
+   "status": "played",
+   "hg": 2,
+   "ag": 0,
+   "venue": "MUFG国立"
+  },
+  {
+   "section": 3,
+   "date": "2026-08-22",
+   "home": "鹿島",
+   "away": "福岡",
+   "status": "played",
+   "hg": 3,
+   "ag": 2,
+   "venue": "メルスタ"
+  },
+  {
+   "section": 3,
+   "date": "2026-08-22",
+   "home": "岡山",
+   "away": "東京Ｖ",
+   "status": "played",
+   "hg": 0,
+   "ag": 0,
+   "venue": "ＪＦＥス"
+  },
+  {
+   "section": 3,
+   "date": "2026-08-22",
+   "home": "名古屋",
+   "away": "Ｇ大阪",
+   "status": "played",
+   "hg": 3,
+   "ag": 1,
+   "venue": "豊田ス"
+  },
+  {
+   "section": 3,
+   "date": "2026-08-22",
+   "home": "Ｃ大阪",
+   "away": "清水",
+   "status": "played",
+   "hg": 1,
+   "ag": 0,
+   "venue": "ハナサカ"
+  },
+  {
+   "section": 3,
+   "date": "2026-08-22",
+   "home": "京都",
+   "away": "水戸",
+   "status": "played",
+   "hg": 1,
+   "ag": 3,
+   "venue": "サンガＳ"
+  },
+  {
+   "section": 3,
+   "date": "2026-08-22",
+   "home": "広島",
+   "away": "川崎Ｆ",
+   "status": "played",
+   "hg": 1,
+   "ag": 1,
+   "venue": "Ｅピース"
+  },
+  {
+   "section": 3,
+   "date": "2026-08-22",
+   "home": "横浜FM",
+   "away": "神戸",
+   "status": "played",
+   "hg": 1,
+   "ag": 0,
+   "venue": "日産ス"
+  },
+  {
+   "section": 3,
+   "date": "2026-08-23",
+   "home": "町田",
+   "away": "浦和",
+   "status": "played",
+   "hg": 3,
+   "ag": 1,
+   "venue": "MUFG国立"
+  },
+  {
+   "section": 4,
+   "date": "2026-08-29",
+   "home": "水戸",
+   "away": "町田",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "水戸信ス"
+  },
+  {
+   "section": 4,
+   "date": "2026-08-29",
+   "home": "Ｇ大阪",
+   "away": "広島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "パナスタ"
+  },
+  {
+   "section": 4,
+   "date": "2026-08-29",
+   "home": "清水",
+   "away": "柏",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "アイスタ"
+  },
+  {
+   "section": 4,
+   "date": "2026-08-29",
+   "home": "長崎",
+   "away": "FC東京",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ピースタ"
+  },
+  {
+   "section": 4,
+   "date": "2026-08-29",
+   "home": "浦和",
+   "away": "横浜FM",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "埼玉"
+  },
+  {
+   "section": 4,
+   "date": "2026-08-29",
+   "home": "東京Ｖ",
+   "away": "鹿島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 4,
+   "date": "2026-08-29",
+   "home": "川崎Ｆ",
+   "away": "千葉",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｕ等々力"
+  },
+  {
+   "section": 4,
+   "date": "2026-08-29",
+   "home": "名古屋",
+   "away": "岡山",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "豊田ス"
+  },
+  {
+   "section": 4,
+   "date": "2026-08-29",
+   "home": "京都",
+   "away": "福岡",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "サンガＳ"
+  },
+  {
+   "section": 4,
+   "date": "2026-08-29",
+   "home": "神戸",
+   "away": "Ｃ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ノエスタ"
+  },
+  {
+   "section": 5,
+   "date": "2026-09-02",
+   "home": "水戸",
+   "away": "鹿島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "水戸信ス"
+  },
+  {
+   "section": 5,
+   "date": "2026-09-02",
+   "home": "千葉",
+   "away": "岡山",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "フクアリ"
+  },
+  {
+   "section": 5,
+   "date": "2026-09-02",
+   "home": "東京Ｖ",
+   "away": "神戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 5,
+   "date": "2026-09-02",
+   "home": "町田",
+   "away": "川崎Ｆ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｇスタ"
+  },
+  {
+   "section": 5,
+   "date": "2026-09-02",
+   "home": "横浜FM",
+   "away": "京都",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "日産ス"
+  },
+  {
+   "section": 5,
+   "date": "2026-09-02",
+   "home": "清水",
+   "away": "FC東京",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "アイスタ"
+  },
+  {
+   "section": 5,
+   "date": "2026-09-02",
+   "home": "Ｃ大阪",
+   "away": "柏",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ハナサカ"
+  },
+  {
+   "section": 5,
+   "date": "2026-09-02",
+   "home": "広島",
+   "away": "名古屋",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｅピース"
+  },
+  {
+   "section": 5,
+   "date": "2026-09-02",
+   "home": "福岡",
+   "away": "浦和",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ベススタ"
+  },
+  {
+   "section": 5,
+   "date": "2026-09-02",
+   "home": "長崎",
+   "away": "Ｇ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ピースタ"
+  },
+  {
+   "section": 6,
+   "date": "2026-09-05",
+   "home": "福岡",
+   "away": "水戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ベススタ"
+  },
+  {
+   "section": 6,
+   "date": "2026-09-06",
+   "home": "鹿島",
+   "away": "浦和",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "メルスタ"
+  },
+  {
+   "section": 6,
+   "date": "2026-09-06",
+   "home": "千葉",
+   "away": "Ｇ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "フクアリ"
+  },
+  {
+   "section": 6,
+   "date": "2026-09-06",
+   "home": "名古屋",
+   "away": "町田",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "豊田ス"
+  },
+  {
+   "section": 6,
+   "date": "2026-09-06",
+   "home": "岡山",
+   "away": "広島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ＪＦＥス"
+  },
+  {
+   "section": 6,
+   "date": "2026-09-06",
+   "home": "柏",
+   "away": "横浜FM",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "三協Ｆ柏"
+  },
+  {
+   "section": 6,
+   "date": "2026-09-06",
+   "home": "川崎Ｆ",
+   "away": "清水",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "MUFG国立"
+  },
+  {
+   "section": 6,
+   "date": "2026-09-06",
+   "home": "Ｃ大阪",
+   "away": "東京Ｖ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ハナサカ"
+  },
+  {
+   "section": 6,
+   "date": "2026-09-06",
+   "home": "神戸",
+   "away": "長崎",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ノエスタ"
+  },
+  {
+   "section": 6,
+   "date": "2026-09-06",
+   "home": "FC東京",
+   "away": "京都",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 7,
+   "date": "2026-09-11",
+   "home": "京都",
+   "away": "柏",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "サンガＳ"
+  },
+  {
+   "section": 7,
+   "date": "2026-09-11",
+   "home": "神戸",
+   "away": "鹿島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ノエスタ"
+  },
+  {
+   "section": 7,
+   "date": "2026-09-12",
+   "home": "水戸",
+   "away": "川崎Ｆ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "水戸信ス"
+  },
+  {
+   "section": 7,
+   "date": "2026-09-12",
+   "home": "清水",
+   "away": "福岡",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "アイスタ"
+  },
+  {
+   "section": 7,
+   "date": "2026-09-12",
+   "home": "町田",
+   "away": "横浜FM",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "MUFG国立"
+  },
+  {
+   "section": 7,
+   "date": "2026-09-12",
+   "home": "Ｇ大阪",
+   "away": "FC東京",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "パナスタ"
+  },
+  {
+   "section": 7,
+   "date": "2026-09-12",
+   "home": "広島",
+   "away": "Ｃ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｅピース"
+  },
+  {
+   "section": 7,
+   "date": "2026-09-12",
+   "home": "長崎",
+   "away": "名古屋",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ピースタ"
+  },
+  {
+   "section": 7,
+   "date": "2026-09-13",
+   "home": "東京Ｖ",
+   "away": "千葉",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 7,
+   "date": "2026-09-13",
+   "home": "浦和",
+   "away": "岡山",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "埼玉"
+  },
+  {
+   "section": 8,
+   "date": "2026-09-19",
+   "home": "川崎Ｆ",
+   "away": "鹿島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｕ等々力"
+  },
+  {
+   "section": 8,
+   "date": "2026-09-19",
+   "home": "福岡",
+   "away": "広島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ベススタ"
+  },
+  {
+   "section": 8,
+   "date": "2026-09-19",
+   "home": "浦和",
+   "away": "東京Ｖ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "埼玉"
+  },
+  {
+   "section": 8,
+   "date": "2026-09-19",
+   "home": "清水",
+   "away": "千葉",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "アイスタ"
+  },
+  {
+   "section": 8,
+   "date": "2026-09-19",
+   "home": "長崎",
+   "away": "Ｃ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ピースタ"
+  },
+  {
+   "section": 8,
+   "date": "2026-09-19",
+   "home": "FC東京",
+   "away": "名古屋",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "MUFG国立"
+  },
+  {
+   "section": 8,
+   "date": "2026-09-19",
+   "home": "岡山",
+   "away": "京都",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ＪＦＥス"
+  },
+  {
+   "section": 8,
+   "date": "2026-09-19",
+   "home": "横浜FM",
+   "away": "水戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "日産ス"
+  },
+  {
+   "section": 8,
+   "date": "2026-09-20",
+   "home": "町田",
+   "away": "柏",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｇスタ"
+  },
+  {
+   "section": 8,
+   "date": "2026-09-20",
+   "home": "Ｇ大阪",
+   "away": "神戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "パナスタ"
+  },
+  {
+   "section": 9,
+   "date": "2026-10-09",
+   "home": "鹿島",
+   "away": "Ｇ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "メルスタ"
+  },
+  {
+   "section": 9,
+   "date": "2026-10-09",
+   "home": "柏",
+   "away": "神戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "三協Ｆ柏"
+  },
+  {
+   "section": 9,
+   "date": "2026-10-10",
+   "home": "Ｃ大阪",
+   "away": "横浜FM",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ハナサカ"
+  },
+  {
+   "section": 9,
+   "date": "2026-10-10",
+   "home": "FC東京",
+   "away": "浦和",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 9,
+   "date": "2026-10-10",
+   "home": "福岡",
+   "away": "岡山",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ベススタ"
+  },
+  {
+   "section": 9,
+   "date": "2026-10-10",
+   "home": "京都",
+   "away": "町田",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "サンガＳ"
+  },
+  {
+   "section": 9,
+   "date": "2026-10-11",
+   "home": "千葉",
+   "away": "長崎",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "フクアリ"
+  },
+  {
+   "section": 9,
+   "date": "2026-10-11",
+   "home": "水戸",
+   "away": "清水",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "水戸信ス"
+  },
+  {
+   "section": 9,
+   "date": "2026-10-11",
+   "home": "東京Ｖ",
+   "away": "広島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 9,
+   "date": "2026-10-11",
+   "home": "川崎Ｆ",
+   "away": "名古屋",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｕ等々力"
+  },
+  {
+   "section": 10,
+   "date": "2026-10-17",
+   "home": "清水",
+   "away": "Ｇ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "アイスタ"
+  },
+  {
+   "section": 10,
+   "date": "2026-10-17",
+   "home": "千葉",
+   "away": "横浜FM",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "フクアリ"
+  },
+  {
+   "section": 10,
+   "date": "2026-10-17",
+   "home": "東京Ｖ",
+   "away": "FC東京",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 10,
+   "date": "2026-10-17",
+   "home": "広島",
+   "away": "京都",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｅピース"
+  },
+  {
+   "section": 10,
+   "date": "2026-10-17",
+   "home": "鹿島",
+   "away": "長崎",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "メルスタ"
+  },
+  {
+   "section": 10,
+   "date": "2026-10-17",
+   "home": "Ｃ大阪",
+   "away": "川崎Ｆ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ハナサカ"
+  },
+  {
+   "section": 10,
+   "date": "2026-10-17",
+   "home": "水戸",
+   "away": "浦和",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "水戸信ス"
+  },
+  {
+   "section": 10,
+   "date": "2026-10-17",
+   "home": "柏",
+   "away": "名古屋",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "三協Ｆ柏"
+  },
+  {
+   "section": 10,
+   "date": "2026-10-18",
+   "home": "岡山",
+   "away": "神戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ＪＦＥス"
+  },
+  {
+   "section": 10,
+   "date": "2026-10-18",
+   "home": "町田",
+   "away": "福岡",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｇスタ"
+  },
+  {
+   "section": 11,
+   "date": "2026-10-21",
+   "home": "FC東京",
+   "away": "柏",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 11,
+   "date": "2026-10-21",
+   "home": "川崎Ｆ",
+   "away": "神戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｕ等々力"
+  },
+  {
+   "section": 11,
+   "date": "2026-10-21",
+   "home": "横浜FM",
+   "away": "東京Ｖ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "MUFG国立"
+  },
+  {
+   "section": 11,
+   "date": "2026-10-21",
+   "home": "清水",
+   "away": "町田",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "アイスタ"
+  },
+  {
+   "section": 11,
+   "date": "2026-10-21",
+   "home": "名古屋",
+   "away": "Ｃ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "豊田ス"
+  },
+  {
+   "section": 11,
+   "date": "2026-10-21",
+   "home": "京都",
+   "away": "鹿島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "サンガＳ"
+  },
+  {
+   "section": 11,
+   "date": "2026-10-21",
+   "home": "岡山",
+   "away": "水戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ＪＦＥス"
+  },
+  {
+   "section": 11,
+   "date": "2026-10-21",
+   "home": "福岡",
+   "away": "Ｇ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ベススタ"
+  },
+  {
+   "section": 11,
+   "date": "2026-10-21",
+   "home": "長崎",
+   "away": "広島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ピースタ"
+  },
+  {
+   "section": 11,
+   "date": "2026-10-21",
+   "home": "浦和",
+   "away": "千葉",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "埼玉"
+  },
+  {
+   "section": 12,
+   "date": "2026-10-24",
+   "home": "広島",
+   "away": "清水",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｅピース"
+  },
+  {
+   "section": 12,
+   "date": "2026-10-24",
+   "home": "鹿島",
+   "away": "柏",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "メルスタ"
+  },
+  {
+   "section": 12,
+   "date": "2026-10-24",
+   "home": "東京Ｖ",
+   "away": "福岡",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 12,
+   "date": "2026-10-24",
+   "home": "神戸",
+   "away": "町田",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ノエスタ"
+  },
+  {
+   "section": 12,
+   "date": "2026-10-24",
+   "home": "Ｇ大阪",
+   "away": "京都",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "パナスタ"
+  },
+  {
+   "section": 12,
+   "date": "2026-10-25",
+   "home": "名古屋",
+   "away": "横浜FM",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "豊田ス"
+  },
+  {
+   "section": 12,
+   "date": "2026-10-25",
+   "home": "浦和",
+   "away": "長崎",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "埼玉"
+  },
+  {
+   "section": 12,
+   "date": "2026-10-25",
+   "home": "Ｃ大阪",
+   "away": "千葉",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ハナサカ"
+  },
+  {
+   "section": 12,
+   "date": "2026-10-25",
+   "home": "FC東京",
+   "away": "水戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 12,
+   "date": "2026-10-25",
+   "home": "川崎Ｆ",
+   "away": "岡山",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｕ等々力"
+  },
+  {
+   "section": 13,
+   "date": "2026-10-31",
+   "home": "水戸",
+   "away": "広島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "水戸信ス"
+  },
+  {
+   "section": 13,
+   "date": "2026-10-31",
+   "home": "京都",
+   "away": "清水",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "サンガＳ"
+  },
+  {
+   "section": 13,
+   "date": "2026-10-31",
+   "home": "岡山",
+   "away": "FC東京",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ＪＦＥス"
+  },
+  {
+   "section": 13,
+   "date": "2026-10-31",
+   "home": "鹿島",
+   "away": "Ｃ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "メルスタ"
+  },
+  {
+   "section": 13,
+   "date": "2026-10-31",
+   "home": "神戸",
+   "away": "名古屋",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ノエスタ"
+  },
+  {
+   "section": 13,
+   "date": "2026-10-31",
+   "home": "柏",
+   "away": "浦和",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "三協Ｆ柏"
+  },
+  {
+   "section": 13,
+   "date": "2026-11-01",
+   "home": "横浜FM",
+   "away": "川崎Ｆ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "日産ス"
+  },
+  {
+   "section": 13,
+   "date": "2026-11-01",
+   "home": "千葉",
+   "away": "福岡",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "フクアリ"
+  },
+  {
+   "section": 13,
+   "date": "2026-11-01",
+   "home": "長崎",
+   "away": "東京Ｖ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ピースタ"
+  },
+  {
+   "section": 13,
+   "date": "2026-11-01",
+   "home": "町田",
+   "away": "Ｇ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｇスタ"
+  },
+  {
+   "section": 14,
+   "date": "2026-11-07",
+   "home": "清水",
+   "away": "東京Ｖ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "アイスタ"
+  },
+  {
+   "section": 14,
+   "date": "2026-11-07",
+   "home": "横浜FM",
+   "away": "岡山",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "日産ス"
+  },
+  {
+   "section": 14,
+   "date": "2026-11-07",
+   "home": "名古屋",
+   "away": "京都",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "豊田ス"
+  },
+  {
+   "section": 14,
+   "date": "2026-11-07",
+   "home": "FC東京",
+   "away": "鹿島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 14,
+   "date": "2026-11-07",
+   "home": "福岡",
+   "away": "長崎",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ベススタ"
+  },
+  {
+   "section": 14,
+   "date": "2026-11-07",
+   "home": "柏",
+   "away": "川崎Ｆ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "三協Ｆ柏"
+  },
+  {
+   "section": 14,
+   "date": "2026-11-08",
+   "home": "町田",
+   "away": "広島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｇスタ"
+  },
+  {
+   "section": 14,
+   "date": "2026-11-08",
+   "home": "神戸",
+   "away": "浦和",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "MUFG国立"
+  },
+  {
+   "section": 14,
+   "date": "2026-11-08",
+   "home": "Ｇ大阪",
+   "away": "Ｃ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "パナスタ"
+  },
+  {
+   "section": 14,
+   "date": "2026-11-08",
+   "home": "千葉",
+   "away": "水戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "フクアリ"
+  },
+  {
+   "section": 15,
+   "date": "2026-11-20",
+   "home": "鹿島",
+   "away": "清水",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "メルスタ"
+  },
+  {
+   "section": 15,
+   "date": "2026-11-20",
+   "home": "柏",
+   "away": "千葉",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "三協Ｆ柏"
+  },
+  {
+   "section": 15,
+   "date": "2026-11-20",
+   "home": "神戸",
+   "away": "水戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ノエスタ"
+  },
+  {
+   "section": 15,
+   "date": "2026-11-21",
+   "home": "東京Ｖ",
+   "away": "名古屋",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 15,
+   "date": "2026-11-21",
+   "home": "町田",
+   "away": "長崎",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｇスタ"
+  },
+  {
+   "section": 15,
+   "date": "2026-11-21",
+   "home": "京都",
+   "away": "浦和",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "サンガＳ"
+  },
+  {
+   "section": 15,
+   "date": "2026-11-21",
+   "home": "広島",
+   "away": "横浜FM",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｅピース"
+  },
+  {
+   "section": 15,
+   "date": "2026-11-21",
+   "home": "川崎Ｆ",
+   "away": "福岡",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｕ等々力"
+  },
+  {
+   "section": 15,
+   "date": "2026-11-21",
+   "home": "Ｃ大阪",
+   "away": "FC東京",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ハナサカ"
+  },
+  {
+   "section": 15,
+   "date": "2026-11-21",
+   "home": "Ｇ大阪",
+   "away": "岡山",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "パナスタ"
+  },
+  {
+   "section": 16,
+   "date": "2026-11-25",
+   "home": "水戸",
+   "away": "東京Ｖ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "水戸信ス"
+  },
+  {
+   "section": 16,
+   "date": "2026-11-25",
+   "home": "千葉",
+   "away": "名古屋",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "フクアリ"
+  },
+  {
+   "section": 16,
+   "date": "2026-11-25",
+   "home": "FC東京",
+   "away": "広島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 16,
+   "date": "2026-11-25",
+   "home": "岡山",
+   "away": "清水",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ＪＦＥス"
+  },
+  {
+   "section": 16,
+   "date": "2026-11-25",
+   "home": "福岡",
+   "away": "横浜FM",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ベススタ"
+  },
+  {
+   "section": 16,
+   "date": "2026-11-25",
+   "home": "長崎",
+   "away": "川崎Ｆ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ピースタ"
+  },
+  {
+   "section": 16,
+   "date": "2026-11-25",
+   "home": "浦和",
+   "away": "Ｃ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "埼玉"
+  },
+  {
+   "section": 17,
+   "date": "2026-11-28",
+   "home": "清水",
+   "away": "浦和",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "アイスタ"
+  },
+  {
+   "section": 17,
+   "date": "2026-11-28",
+   "home": "京都",
+   "away": "Ｃ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "サンガＳ"
+  },
+  {
+   "section": 17,
+   "date": "2026-11-28",
+   "home": "鹿島",
+   "away": "岡山",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "メルスタ"
+  },
+  {
+   "section": 17,
+   "date": "2026-11-28",
+   "home": "神戸",
+   "away": "千葉",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ノエスタ"
+  },
+  {
+   "section": 17,
+   "date": "2026-11-28",
+   "home": "柏",
+   "away": "広島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "三協Ｆ柏"
+  },
+  {
+   "section": 17,
+   "date": "2026-11-29",
+   "home": "水戸",
+   "away": "長崎",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "水戸信ス"
+  },
+  {
+   "section": 17,
+   "date": "2026-11-29",
+   "home": "横浜FM",
+   "away": "FC東京",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "日産ス"
+  },
+  {
+   "section": 17,
+   "date": "2026-11-29",
+   "home": "川崎Ｆ",
+   "away": "Ｇ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｕ等々力"
+  },
+  {
+   "section": 17,
+   "date": "2026-11-29",
+   "home": "名古屋",
+   "away": "福岡",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "豊田ス"
+  },
+  {
+   "section": 17,
+   "date": "2026-11-29",
+   "home": "町田",
+   "away": "東京Ｖ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｇスタ"
+  },
+  {
+   "section": 18,
+   "date": "2026-12-04",
+   "home": "FC東京",
+   "away": "川崎Ｆ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "MUFG国立"
+  },
+  {
+   "section": 18,
+   "date": "2026-12-05",
+   "home": "千葉",
+   "away": "鹿島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "フクアリ"
+  },
+  {
+   "section": 18,
+   "date": "2026-12-05",
+   "home": "浦和",
+   "away": "名古屋",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "埼玉"
+  },
+  {
+   "section": 18,
+   "date": "2026-12-05",
+   "home": "東京Ｖ",
+   "away": "京都",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 18,
+   "date": "2026-12-05",
+   "home": "Ｃ大阪",
+   "away": "水戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ハナサカ"
+  },
+  {
+   "section": 18,
+   "date": "2026-12-05",
+   "home": "長崎",
+   "away": "清水",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ピースタ"
+  },
+  {
+   "section": 18,
+   "date": "2026-12-06",
+   "home": "広島",
+   "away": "神戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｅピース"
+  },
+  {
+   "section": 18,
+   "date": "2026-12-06",
+   "home": "Ｇ大阪",
+   "away": "横浜FM",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "パナスタ"
+  },
+  {
+   "section": 18,
+   "date": "2026-12-06",
+   "home": "柏",
+   "away": "福岡",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "三協Ｆ柏"
+  },
+  {
+   "section": 18,
+   "date": "2026-12-06",
+   "home": "町田",
+   "away": "岡山",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｇスタ"
+  },
+  {
+   "section": 19,
+   "date": "2026-12-12",
+   "home": "清水",
+   "away": "神戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "アイスタ"
+  },
+  {
+   "section": 19,
+   "date": "2026-12-12",
+   "home": "Ｃ大阪",
+   "away": "町田",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ハナサカ"
+  },
+  {
+   "section": 19,
+   "date": "2026-12-12",
+   "home": "Ｇ大阪",
+   "away": "東京Ｖ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "パナスタ"
+  },
+  {
+   "section": 19,
+   "date": "2026-12-13",
+   "home": "横浜FM",
+   "away": "長崎",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "日産ス"
+  },
+  {
+   "section": 19,
+   "date": "2026-12-13",
+   "home": "京都",
+   "away": "千葉",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "サンガＳ"
+  },
+  {
+   "section": 19,
+   "date": "2026-12-13",
+   "home": "岡山",
+   "away": "柏",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ＪＦＥス"
+  },
+  {
+   "section": 19,
+   "date": "2026-12-13",
+   "home": "広島",
+   "away": "鹿島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｅピース"
+  },
+  {
+   "section": 19,
+   "date": "2026-12-13",
+   "home": "浦和",
+   "away": "川崎Ｆ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "埼玉"
+  },
+  {
+   "section": 19,
+   "date": "2026-12-13",
+   "home": "名古屋",
+   "away": "水戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "豊田ス"
+  },
+  {
+   "section": 19,
+   "date": "2026-12-13",
+   "home": "福岡",
+   "away": "FC東京",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ベススタ"
+  },
+  {
+   "section": 16,
+   "date": "2026-12-16",
+   "home": "鹿島",
+   "away": "町田",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "メルスタ"
+  },
+  {
+   "section": 16,
+   "date": "2026-12-16",
+   "home": "Ｇ大阪",
+   "away": "柏",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "パナスタ"
+  },
+  {
+   "section": 20,
+   "date": "2026-12-19",
+   "home": "千葉",
+   "away": "Ｃ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "フクアリ"
+  },
+  {
+   "section": 20,
+   "date": "2026-12-19",
+   "home": "水戸",
+   "away": "FC東京",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "水戸信ス"
+  },
+  {
+   "section": 20,
+   "date": "2026-12-19",
+   "home": "名古屋",
+   "away": "広島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "パロ瑞穂"
+  },
+  {
+   "section": 20,
+   "date": "2026-12-19",
+   "home": "福岡",
+   "away": "清水",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ベススタ"
+  },
+  {
+   "section": 20,
+   "date": "2026-12-19",
+   "home": "長崎",
+   "away": "浦和",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ピースタ"
+  },
+  {
+   "section": 20,
+   "date": "2026-12-19",
+   "home": "鹿島",
+   "away": "東京Ｖ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "MUFG国立"
+  },
+  {
+   "section": 20,
+   "date": "2026-12-19",
+   "home": "神戸",
+   "away": "横浜FM",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ノエスタ"
+  },
+  {
+   "section": 20,
+   "date": "2026-12-19",
+   "home": "川崎Ｆ",
+   "away": "柏",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｕ等々力"
+  },
+  {
+   "section": 20,
+   "date": "2026-12-19",
+   "home": "Ｇ大阪",
+   "away": "町田",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "パナスタ"
+  },
+  {
+   "section": 21,
+   "date": "2027-02-13",
+   "home": "鹿島",
+   "away": "水戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "メルスタ"
+  },
+  {
+   "section": 21,
+   "date": "2027-02-13",
+   "home": "柏",
+   "away": "清水",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "三協Ｆ柏"
+  },
+  {
+   "section": 21,
+   "date": "2027-02-13",
+   "home": "町田",
+   "away": "千葉",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｇスタ"
+  },
+  {
+   "section": 21,
+   "date": "2027-02-13",
+   "home": "名古屋",
+   "away": "FC東京",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "●未定●"
+  },
+  {
+   "section": 21,
+   "date": "2027-02-13",
+   "home": "京都",
+   "away": "横浜FM",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "サンガＳ"
+  },
+  {
+   "section": 21,
+   "date": "2027-02-13",
+   "home": "Ｃ大阪",
+   "away": "Ｇ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ヤンマー"
+  },
+  {
+   "section": 21,
+   "date": "2027-02-13",
+   "home": "神戸",
+   "away": "川崎Ｆ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ノエスタ"
+  },
+  {
+   "section": 21,
+   "date": "2027-02-13",
+   "home": "広島",
+   "away": "岡山",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｅピース"
+  },
+  {
+   "section": 21,
+   "date": "2027-02-13",
+   "home": "長崎",
+   "away": "福岡",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ピースタ"
+  },
+  {
+   "section": 21,
+   "date": "2027-02-14",
+   "home": "東京Ｖ",
+   "away": "浦和",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "MUFG国立"
+  },
+  {
+   "section": 22,
+   "date": "2027-02-20",
+   "home": "水戸",
+   "away": "柏",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "水戸信ス"
+  },
+  {
+   "section": 22,
+   "date": "2027-02-20",
+   "home": "浦和",
+   "away": "鹿島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "埼玉"
+  },
+  {
+   "section": 22,
+   "date": "2027-02-20",
+   "home": "千葉",
+   "away": "川崎Ｆ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "フクアリ"
+  },
+  {
+   "section": 22,
+   "date": "2027-02-20",
+   "home": "FC東京",
+   "away": "長崎",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "MUFG国立"
+  },
+  {
+   "section": 22,
+   "date": "2027-02-20",
+   "home": "横浜FM",
+   "away": "町田",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "日産ス"
+  },
+  {
+   "section": 22,
+   "date": "2027-02-20",
+   "home": "清水",
+   "away": "京都",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "アイスタ"
+  },
+  {
+   "section": 22,
+   "date": "2027-02-20",
+   "home": "Ｃ大阪",
+   "away": "神戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ハナサカ"
+  },
+  {
+   "section": 22,
+   "date": "2027-02-20",
+   "home": "岡山",
+   "away": "Ｇ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ＪＦＥス"
+  },
+  {
+   "section": 22,
+   "date": "2027-02-20",
+   "home": "広島",
+   "away": "東京Ｖ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｅピース"
+  },
+  {
+   "section": 22,
+   "date": "2027-02-20",
+   "home": "福岡",
+   "away": "名古屋",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ベススタ"
+  },
+  {
+   "section": 23,
+   "date": "2027-02-27",
+   "home": "水戸",
+   "away": "神戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "水戸信ス"
+  },
+  {
+   "section": 23,
+   "date": "2027-02-27",
+   "home": "千葉",
+   "away": "FC東京",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "フクアリ"
+  },
+  {
+   "section": 23,
+   "date": "2027-02-27",
+   "home": "川崎Ｆ",
+   "away": "町田",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "MUFG国立"
+  },
+  {
+   "section": 23,
+   "date": "2027-02-27",
+   "home": "横浜FM",
+   "away": "Ｃ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "日産ス"
+  },
+  {
+   "section": 23,
+   "date": "2027-02-27",
+   "home": "清水",
+   "away": "広島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "アイスタ"
+  },
+  {
+   "section": 23,
+   "date": "2027-02-27",
+   "home": "名古屋",
+   "away": "浦和",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "●未定●"
+  },
+  {
+   "section": 23,
+   "date": "2027-02-27",
+   "home": "京都",
+   "away": "東京Ｖ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "サンガＳ"
+  },
+  {
+   "section": 23,
+   "date": "2027-02-27",
+   "home": "Ｇ大阪",
+   "away": "福岡",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "パナスタ"
+  },
+  {
+   "section": 23,
+   "date": "2027-02-27",
+   "home": "岡山",
+   "away": "鹿島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ＪＦＥス"
+  },
+  {
+   "section": 23,
+   "date": "2027-02-27",
+   "home": "長崎",
+   "away": "柏",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ピースタ"
+  },
+  {
+   "section": 24,
+   "date": "2027-03-06",
+   "home": "鹿島",
+   "away": "千葉",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "メルスタ"
+  },
+  {
+   "section": 24,
+   "date": "2027-03-06",
+   "home": "東京Ｖ",
+   "away": "横浜FM",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "MUFG国立"
+  },
+  {
+   "section": 24,
+   "date": "2027-03-06",
+   "home": "町田",
+   "away": "清水",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｇスタ"
+  },
+  {
+   "section": 24,
+   "date": "2027-03-06",
+   "home": "川崎Ｆ",
+   "away": "浦和",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｕ等々力"
+  },
+  {
+   "section": 24,
+   "date": "2027-03-06",
+   "home": "京都",
+   "away": "FC東京",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "サンガＳ"
+  },
+  {
+   "section": 24,
+   "date": "2027-03-06",
+   "home": "Ｇ大阪",
+   "away": "名古屋",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "パナスタ"
+  },
+  {
+   "section": 24,
+   "date": "2027-03-06",
+   "home": "Ｃ大阪",
+   "away": "広島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ハナサカ"
+  },
+  {
+   "section": 24,
+   "date": "2027-03-06",
+   "home": "神戸",
+   "away": "岡山",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ノエスタ"
+  },
+  {
+   "section": 24,
+   "date": "2027-03-06",
+   "home": "福岡",
+   "away": "柏",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ベススタ"
+  },
+  {
+   "section": 24,
+   "date": "2027-03-06",
+   "home": "長崎",
+   "away": "水戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ピースタ"
+  },
+  {
+   "section": 25,
+   "date": "2027-03-10",
+   "home": "水戸",
+   "away": "Ｃ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "水戸信ス"
+  },
+  {
+   "section": 25,
+   "date": "2027-03-10",
+   "home": "浦和",
+   "away": "FC東京",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "埼玉"
+  },
+  {
+   "section": 25,
+   "date": "2027-03-10",
+   "home": "千葉",
+   "away": "東京Ｖ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "フクアリ"
+  },
+  {
+   "section": 25,
+   "date": "2027-03-10",
+   "home": "柏",
+   "away": "京都",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "三協Ｆ柏"
+  },
+  {
+   "section": 25,
+   "date": "2027-03-10",
+   "home": "町田",
+   "away": "鹿島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｇスタ"
+  },
+  {
+   "section": 25,
+   "date": "2027-03-10",
+   "home": "清水",
+   "away": "川崎Ｆ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "アイスタ"
+  },
+  {
+   "section": 25,
+   "date": "2027-03-10",
+   "home": "名古屋",
+   "away": "長崎",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "●未定●"
+  },
+  {
+   "section": 25,
+   "date": "2027-03-10",
+   "home": "神戸",
+   "away": "Ｇ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ノエスタ"
+  },
+  {
+   "section": 25,
+   "date": "2027-03-10",
+   "home": "岡山",
+   "away": "横浜FM",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ＪＦＥス"
+  },
+  {
+   "section": 25,
+   "date": "2027-03-10",
+   "home": "広島",
+   "away": "福岡",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｅピース"
+  },
+  {
+   "section": 26,
+   "date": "2027-03-13",
+   "home": "鹿島",
+   "away": "広島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "メルスタ"
+  },
+  {
+   "section": 26,
+   "date": "2027-03-13",
+   "home": "柏",
+   "away": "岡山",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "三協Ｆ柏"
+  },
+  {
+   "section": 26,
+   "date": "2027-03-13",
+   "home": "FC東京",
+   "away": "Ｃ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 26,
+   "date": "2027-03-13",
+   "home": "東京Ｖ",
+   "away": "水戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 26,
+   "date": "2027-03-13",
+   "home": "町田",
+   "away": "名古屋",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｇスタ"
+  },
+  {
+   "section": 26,
+   "date": "2027-03-13",
+   "home": "横浜FM",
+   "away": "福岡",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "日産ス"
+  },
+  {
+   "section": 26,
+   "date": "2027-03-13",
+   "home": "京都",
+   "away": "川崎Ｆ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "サンガＳ"
+  },
+  {
+   "section": 26,
+   "date": "2027-03-13",
+   "home": "Ｇ大阪",
+   "away": "長崎",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "パナスタ"
+  },
+  {
+   "section": 26,
+   "date": "2027-03-13",
+   "home": "神戸",
+   "away": "清水",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ノエスタ"
+  },
+  {
+   "section": 26,
+   "date": "2027-03-14",
+   "home": "千葉",
+   "away": "浦和",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "MUFG国立"
+  },
+  {
+   "section": 27,
+   "date": "2027-03-20",
+   "home": "柏",
+   "away": "東京Ｖ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "三協Ｆ柏"
+  },
+  {
+   "section": 27,
+   "date": "2027-03-20",
+   "home": "町田",
+   "away": "水戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｇスタ"
+  },
+  {
+   "section": 27,
+   "date": "2027-03-20",
+   "home": "川崎Ｆ",
+   "away": "FC東京",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｕ等々力"
+  },
+  {
+   "section": 27,
+   "date": "2027-03-20",
+   "home": "横浜FM",
+   "away": "浦和",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "日産ス"
+  },
+  {
+   "section": 27,
+   "date": "2027-03-20",
+   "home": "名古屋",
+   "away": "神戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "●未定●"
+  },
+  {
+   "section": 27,
+   "date": "2027-03-20",
+   "home": "Ｃ大阪",
+   "away": "京都",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ハナサカ"
+  },
+  {
+   "section": 27,
+   "date": "2027-03-20",
+   "home": "広島",
+   "away": "Ｇ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｅピース"
+  },
+  {
+   "section": 27,
+   "date": "2027-03-20",
+   "home": "福岡",
+   "away": "千葉",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ベススタ"
+  },
+  {
+   "section": 27,
+   "date": "2027-03-20",
+   "home": "長崎",
+   "away": "岡山",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ピースタ"
+  },
+  {
+   "section": 27,
+   "date": "2027-03-21",
+   "home": "清水",
+   "away": "鹿島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "MUFG国立"
+  },
+  {
+   "section": 28,
+   "date": "2027-04-03",
+   "home": "鹿島",
+   "away": "横浜FM",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "メルスタ"
+  },
+  {
+   "section": 28,
+   "date": "2027-04-03",
+   "home": "水戸",
+   "away": "千葉",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "水戸信ス"
+  },
+  {
+   "section": 28,
+   "date": "2027-04-03",
+   "home": "浦和",
+   "away": "清水",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "埼玉"
+  },
+  {
+   "section": 28,
+   "date": "2027-04-03",
+   "home": "柏",
+   "away": "Ｃ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "三協Ｆ柏"
+  },
+  {
+   "section": 28,
+   "date": "2027-04-03",
+   "home": "FC東京",
+   "away": "福岡",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 28,
+   "date": "2027-04-03",
+   "home": "東京Ｖ",
+   "away": "町田",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 28,
+   "date": "2027-04-03",
+   "home": "京都",
+   "away": "長崎",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "サンガＳ"
+  },
+  {
+   "section": 28,
+   "date": "2027-04-03",
+   "home": "Ｇ大阪",
+   "away": "川崎Ｆ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "パナスタ"
+  },
+  {
+   "section": 28,
+   "date": "2027-04-03",
+   "home": "神戸",
+   "away": "広島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ノエスタ"
+  },
+  {
+   "section": 28,
+   "date": "2027-04-03",
+   "home": "岡山",
+   "away": "名古屋",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ＪＦＥス"
+  },
+  {
+   "section": 29,
+   "date": "2027-04-09",
+   "home": "Ｃ大阪",
+   "away": "福岡",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ハナサカ"
+  },
+  {
+   "section": 29,
+   "date": "2027-04-10",
+   "home": "浦和",
+   "away": "柏",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "埼玉"
+  },
+  {
+   "section": 29,
+   "date": "2027-04-10",
+   "home": "千葉",
+   "away": "京都",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "フクアリ"
+  },
+  {
+   "section": 29,
+   "date": "2027-04-10",
+   "home": "FC東京",
+   "away": "岡山",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 29,
+   "date": "2027-04-10",
+   "home": "東京Ｖ",
+   "away": "Ｇ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 29,
+   "date": "2027-04-10",
+   "home": "町田",
+   "away": "神戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｇスタ"
+  },
+  {
+   "section": 29,
+   "date": "2027-04-10",
+   "home": "川崎Ｆ",
+   "away": "長崎",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｕ等々力"
+  },
+  {
+   "section": 29,
+   "date": "2027-04-10",
+   "home": "横浜FM",
+   "away": "広島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "日産ス"
+  },
+  {
+   "section": 29,
+   "date": "2027-04-10",
+   "home": "清水",
+   "away": "水戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "アイスタ"
+  },
+  {
+   "section": 29,
+   "date": "2027-04-10",
+   "home": "名古屋",
+   "away": "鹿島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "●未定●"
+  },
+  {
+   "section": 16,
+   "date": "2027-04-14",
+   "home": "京都",
+   "away": "神戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "サンガＳ"
+  },
+  {
+   "section": 30,
+   "date": "2027-04-16",
+   "home": "広島",
+   "away": "FC東京",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｅピース"
+  },
+  {
+   "section": 30,
+   "date": "2027-04-17",
+   "home": "水戸",
+   "away": "京都",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "水戸信ス"
+  },
+  {
+   "section": 30,
+   "date": "2027-04-17",
+   "home": "川崎Ｆ",
+   "away": "東京Ｖ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｕ等々力"
+  },
+  {
+   "section": 30,
+   "date": "2027-04-17",
+   "home": "横浜FM",
+   "away": "柏",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "日産ス"
+  },
+  {
+   "section": 30,
+   "date": "2027-04-17",
+   "home": "清水",
+   "away": "名古屋",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "アイスタ"
+  },
+  {
+   "section": 30,
+   "date": "2027-04-17",
+   "home": "Ｇ大阪",
+   "away": "千葉",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "パナスタ"
+  },
+  {
+   "section": 30,
+   "date": "2027-04-17",
+   "home": "Ｃ大阪",
+   "away": "鹿島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ハナサカ"
+  },
+  {
+   "section": 30,
+   "date": "2027-04-17",
+   "home": "岡山",
+   "away": "浦和",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ＪＦＥス"
+  },
+  {
+   "section": 30,
+   "date": "2027-04-17",
+   "home": "福岡",
+   "away": "町田",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ベススタ"
+  },
+  {
+   "section": 30,
+   "date": "2027-04-17",
+   "home": "長崎",
+   "away": "神戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ピースタ"
+  },
+  {
+   "section": 31,
+   "date": "2027-04-24",
+   "home": "鹿島",
+   "away": "京都",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "メルスタ"
+  },
+  {
+   "section": 31,
+   "date": "2027-04-24",
+   "home": "浦和",
+   "away": "水戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "埼玉"
+  },
+  {
+   "section": 31,
+   "date": "2027-04-24",
+   "home": "柏",
+   "away": "Ｇ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "三協Ｆ柏"
+  },
+  {
+   "section": 31,
+   "date": "2027-04-24",
+   "home": "FC東京",
+   "away": "横浜FM",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 31,
+   "date": "2027-04-24",
+   "home": "東京Ｖ",
+   "away": "清水",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 31,
+   "date": "2027-04-24",
+   "home": "名古屋",
+   "away": "川崎Ｆ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "●未定●"
+  },
+  {
+   "section": 31,
+   "date": "2027-04-24",
+   "home": "神戸",
+   "away": "福岡",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ノエスタ"
+  },
+  {
+   "section": 31,
+   "date": "2027-04-24",
+   "home": "岡山",
+   "away": "Ｃ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ＪＦＥス"
+  },
+  {
+   "section": 31,
+   "date": "2027-04-24",
+   "home": "広島",
+   "away": "町田",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｅピース"
+  },
+  {
+   "section": 31,
+   "date": "2027-04-24",
+   "home": "長崎",
+   "away": "千葉",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ピースタ"
+  },
+  {
+   "section": 32,
+   "date": "2027-04-29",
+   "home": "鹿島",
+   "away": "神戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "メルスタ"
+  },
+  {
+   "section": 32,
+   "date": "2027-04-29",
+   "home": "浦和",
+   "away": "町田",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "埼玉"
+  },
+  {
+   "section": 32,
+   "date": "2027-04-29",
+   "home": "千葉",
+   "away": "広島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "フクアリ"
+  },
+  {
+   "section": 32,
+   "date": "2027-04-29",
+   "home": "柏",
+   "away": "FC東京",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "三協Ｆ柏"
+  },
+  {
+   "section": 32,
+   "date": "2027-04-29",
+   "home": "川崎Ｆ",
+   "away": "水戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｕ等々力"
+  },
+  {
+   "section": 32,
+   "date": "2027-04-29",
+   "home": "横浜FM",
+   "away": "名古屋",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "日産ス"
+  },
+  {
+   "section": 32,
+   "date": "2027-04-29",
+   "home": "清水",
+   "away": "岡山",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "アイスタ"
+  },
+  {
+   "section": 32,
+   "date": "2027-04-29",
+   "home": "京都",
+   "away": "Ｇ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "サンガＳ"
+  },
+  {
+   "section": 32,
+   "date": "2027-04-29",
+   "home": "Ｃ大阪",
+   "away": "長崎",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ハナサカ"
+  },
+  {
+   "section": 32,
+   "date": "2027-04-29",
+   "home": "福岡",
+   "away": "東京Ｖ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ベススタ"
+  },
+  {
+   "section": 33,
+   "date": "2027-05-03",
+   "home": "水戸",
+   "away": "福岡",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "水戸信ス"
+  },
+  {
+   "section": 33,
+   "date": "2027-05-03",
+   "home": "FC東京",
+   "away": "清水",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 33,
+   "date": "2027-05-03",
+   "home": "東京Ｖ",
+   "away": "Ｃ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 33,
+   "date": "2027-05-03",
+   "home": "町田",
+   "away": "京都",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｇスタ"
+  },
+  {
+   "section": 33,
+   "date": "2027-05-03",
+   "home": "名古屋",
+   "away": "千葉",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "●未定●"
+  },
+  {
+   "section": 33,
+   "date": "2027-05-03",
+   "home": "Ｇ大阪",
+   "away": "鹿島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "パナスタ"
+  },
+  {
+   "section": 33,
+   "date": "2027-05-03",
+   "home": "神戸",
+   "away": "柏",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ノエスタ"
+  },
+  {
+   "section": 33,
+   "date": "2027-05-03",
+   "home": "岡山",
+   "away": "川崎Ｆ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ＪＦＥス"
+  },
+  {
+   "section": 33,
+   "date": "2027-05-03",
+   "home": "広島",
+   "away": "浦和",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｅピース"
+  },
+  {
+   "section": 33,
+   "date": "2027-05-03",
+   "home": "長崎",
+   "away": "横浜FM",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ピースタ"
+  },
+  {
+   "section": 34,
+   "date": "2027-05-09",
+   "home": "鹿島",
+   "away": "川崎Ｆ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "メルスタ"
+  },
+  {
+   "section": 34,
+   "date": "2027-05-09",
+   "home": "水戸",
+   "away": "岡山",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "水戸信ス"
+  },
+  {
+   "section": 34,
+   "date": "2027-05-09",
+   "home": "浦和",
+   "away": "神戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "埼玉"
+  },
+  {
+   "section": 34,
+   "date": "2027-05-09",
+   "home": "千葉",
+   "away": "清水",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "フクアリ"
+  },
+  {
+   "section": 34,
+   "date": "2027-05-09",
+   "home": "柏",
+   "away": "町田",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "三協Ｆ柏"
+  },
+  {
+   "section": 34,
+   "date": "2027-05-09",
+   "home": "FC東京",
+   "away": "東京Ｖ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 34,
+   "date": "2027-05-09",
+   "home": "横浜FM",
+   "away": "Ｇ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "日産ス"
+  },
+  {
+   "section": 34,
+   "date": "2027-05-09",
+   "home": "Ｃ大阪",
+   "away": "名古屋",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ハナサカ"
+  },
+  {
+   "section": 34,
+   "date": "2027-05-09",
+   "home": "広島",
+   "away": "長崎",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｅピース"
+  },
+  {
+   "section": 34,
+   "date": "2027-05-09",
+   "home": "福岡",
+   "away": "京都",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ベススタ"
+  },
+  {
+   "section": 35,
+   "date": "2027-05-15",
+   "home": "浦和",
+   "away": "福岡",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "埼玉"
+  },
+  {
+   "section": 35,
+   "date": "2027-05-15",
+   "home": "町田",
+   "away": "FC東京",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "●未定●"
+  },
+  {
+   "section": 35,
+   "date": "2027-05-15",
+   "home": "川崎Ｆ",
+   "away": "横浜FM",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｕ等々力"
+  },
+  {
+   "section": 35,
+   "date": "2027-05-15",
+   "home": "清水",
+   "away": "Ｃ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "アイスタ"
+  },
+  {
+   "section": 35,
+   "date": "2027-05-15",
+   "home": "名古屋",
+   "away": "柏",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "●未定●"
+  },
+  {
+   "section": 35,
+   "date": "2027-05-15",
+   "home": "京都",
+   "away": "広島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "サンガＳ"
+  },
+  {
+   "section": 35,
+   "date": "2027-05-15",
+   "home": "Ｇ大阪",
+   "away": "水戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "パナスタ"
+  },
+  {
+   "section": 35,
+   "date": "2027-05-15",
+   "home": "神戸",
+   "away": "東京Ｖ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ノエスタ"
+  },
+  {
+   "section": 35,
+   "date": "2027-05-15",
+   "home": "岡山",
+   "away": "千葉",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ＪＦＥス"
+  },
+  {
+   "section": 35,
+   "date": "2027-05-15",
+   "home": "長崎",
+   "away": "鹿島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ピースタ"
+  },
+  {
+   "section": 36,
+   "date": "2027-05-22",
+   "home": "水戸",
+   "away": "名古屋",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "水戸信ス"
+  },
+  {
+   "section": 36,
+   "date": "2027-05-22",
+   "home": "浦和",
+   "away": "京都",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "埼玉"
+  },
+  {
+   "section": 36,
+   "date": "2027-05-22",
+   "home": "千葉",
+   "away": "神戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "フクアリ"
+  },
+  {
+   "section": 36,
+   "date": "2027-05-22",
+   "home": "FC東京",
+   "away": "Ｇ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 36,
+   "date": "2027-05-22",
+   "home": "東京Ｖ",
+   "away": "長崎",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 36,
+   "date": "2027-05-22",
+   "home": "川崎Ｆ",
+   "away": "Ｃ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｕ等々力"
+  },
+  {
+   "section": 36,
+   "date": "2027-05-22",
+   "home": "横浜FM",
+   "away": "清水",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "日産ス"
+  },
+  {
+   "section": 36,
+   "date": "2027-05-22",
+   "home": "岡山",
+   "away": "町田",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ＪＦＥス"
+  },
+  {
+   "section": 36,
+   "date": "2027-05-22",
+   "home": "広島",
+   "away": "柏",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｅピース"
+  },
+  {
+   "section": 36,
+   "date": "2027-05-22",
+   "home": "福岡",
+   "away": "鹿島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ベススタ"
+  },
+  {
+   "section": 37,
+   "date": "2027-05-29",
+   "home": "柏",
+   "away": "鹿島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "三協Ｆ柏"
+  },
+  {
+   "section": 37,
+   "date": "2027-05-29",
+   "home": "FC東京",
+   "away": "神戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 37,
+   "date": "2027-05-29",
+   "home": "東京Ｖ",
+   "away": "岡山",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "味スタ"
+  },
+  {
+   "section": 37,
+   "date": "2027-05-29",
+   "home": "横浜FM",
+   "away": "千葉",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "日産ス"
+  },
+  {
+   "section": 37,
+   "date": "2027-05-29",
+   "home": "京都",
+   "away": "名古屋",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "サンガＳ"
+  },
+  {
+   "section": 37,
+   "date": "2027-05-29",
+   "home": "Ｇ大阪",
+   "away": "清水",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "パナスタ"
+  },
+  {
+   "section": 37,
+   "date": "2027-05-29",
+   "home": "Ｃ大阪",
+   "away": "浦和",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ハナサカ"
+  },
+  {
+   "section": 37,
+   "date": "2027-05-29",
+   "home": "広島",
+   "away": "水戸",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｅピース"
+  },
+  {
+   "section": 37,
+   "date": "2027-05-29",
+   "home": "福岡",
+   "away": "川崎Ｆ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ベススタ"
+  },
+  {
+   "section": 37,
+   "date": "2027-05-29",
+   "home": "長崎",
+   "away": "町田",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ピースタ"
+  },
+  {
+   "section": 38,
+   "date": "2027-06-06",
+   "home": "鹿島",
+   "away": "FC東京",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "メルスタ"
+  },
+  {
+   "section": 38,
+   "date": "2027-06-06",
+   "home": "水戸",
+   "away": "横浜FM",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "水戸信ス"
+  },
+  {
+   "section": 38,
+   "date": "2027-06-06",
+   "home": "浦和",
+   "away": "Ｇ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "埼玉"
+  },
+  {
+   "section": 38,
+   "date": "2027-06-06",
+   "home": "千葉",
+   "away": "柏",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "フクアリ"
+  },
+  {
+   "section": 38,
+   "date": "2027-06-06",
+   "home": "町田",
+   "away": "Ｃ大阪",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｇスタ"
+  },
+  {
+   "section": 38,
+   "date": "2027-06-06",
+   "home": "川崎Ｆ",
+   "away": "広島",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "Ｕ等々力"
+  },
+  {
+   "section": 38,
+   "date": "2027-06-06",
+   "home": "清水",
+   "away": "長崎",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "アイスタ"
+  },
+  {
+   "section": 38,
+   "date": "2027-06-06",
+   "home": "名古屋",
+   "away": "東京Ｖ",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "●未定●"
+  },
+  {
+   "section": 38,
+   "date": "2027-06-06",
+   "home": "神戸",
+   "away": "京都",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ノエスタ"
+  },
+  {
+   "section": 38,
+   "date": "2027-06-06",
+   "home": "岡山",
+   "away": "福岡",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "ＪＦＥス"
+  },
+  {
+   "section": 20,
+   "date": null,
+   "home": "京都",
+   "away": "岡山",
+   "status": "pending",
+   "hg": null,
+   "ag": null,
+   "venue": "サンガＳ"
+  }
+ ],
+ "line": {
+  "median": 43,
+  "p25": 42,
+  "p75": 45,
+  "safe": 46
+ },
+ "trials": 20000,
+ "relegation_slots": 3,
+ "confidence": "low",
+ "history": [
+  {
+   "season": "2025",
+   "clubs": 20,
+   "line": 43,
+   "team": "東京Ｖ",
+   "below": 35,
+   "champ": 76
+  },
+  {
+   "season": "2024",
+   "clubs": 20,
+   "line": 41,
+   "team": "柏",
+   "below": 38,
+   "champ": 72
+  },
+  {
+   "season": "2023",
+   "clubs": 18,
+   "line": 34,
+   "team": "湘南",
+   "below": 34,
+   "champ": 71
+  }
+ ]
+}

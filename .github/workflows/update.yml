@@ -1,0 +1,40 @@
+name: Update J1 data
+
+on:
+  schedule:
+    # JST 6:30（Jリーグの試合は夜なので、翌朝に前日ぶんを取り込む）
+    - cron: '30 21 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: データ取得
+        run: python scripts/fetch.py
+
+      - name: 分析
+        run: python scripts/analyze.py
+
+      - name: ページ生成
+        run: python scripts/build.py
+
+      - name: 変更があればコミット
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "変更なし（試合が無かった日）"
+          else
+            git add -A
+            git commit -m "chore: J1データを自動更新 $(TZ=Asia/Tokyo date +%Y-%m-%d)"
+            git push
+          fi

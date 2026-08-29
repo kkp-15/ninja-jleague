@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jleague.kkpwebninja.com/sitemap.xml
