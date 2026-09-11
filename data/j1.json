@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-09-11T08:21:01",
- "as_of": "2026-09-06",
+ "generated_at": "2026-09-12T08:29:43",
+ "as_of": "2026-09-11",
  "season": "2026/27",
  "league": "J1",
  "total_sections": 38,
- "played": 60,
- "pending": 320,
+ "played": 62,
+ "pending": 318,
  "standings": [
   {
    "team": "町田",
@@ -22,72 +22,72 @@
    "max": 112,
    "min": 16,
    "prob": {
-    "champ": 37.9,
-    "top3": 68.8,
-    "releg": 0.1,
+    "champ": 35.8,
+    "top3": 67.7,
+    "releg": 0.0,
     "acl": 0.0
    }
   },
   {
    "team": "神戸",
-   "g": 6,
-   "w": 4,
+   "g": 7,
+   "w": 5,
    "d": 1,
    "l": 1,
-   "gf": 9,
-   "ga": 4,
-   "pts": 13,
-   "gd": 5,
+   "gf": 11,
+   "ga": 5,
+   "pts": 16,
+   "gd": 6,
    "rank": 2,
-   "rest": 32,
+   "rest": 31,
    "max": 109,
-   "min": 13,
+   "min": 16,
    "prob": {
-    "champ": 13.5,
-    "top3": 39.5,
-    "releg": 0.4,
-    "acl": 0.0
-   }
-  },
-  {
-   "team": "鹿島",
-   "g": 6,
-   "w": 4,
-   "d": 0,
-   "l": 2,
-   "gf": 13,
-   "ga": 11,
-   "pts": 12,
-   "gd": 2,
-   "rank": 3,
-   "rest": 32,
-   "max": 108,
-   "min": 12,
-   "prob": {
-    "champ": 9.1,
-    "top3": 29.7,
-    "releg": 0.8,
+    "champ": 19.6,
+    "top3": 50.9,
+    "releg": 0.2,
     "acl": 0.0
    }
   },
   {
    "team": "柏",
-   "g": 6,
-   "w": 4,
+   "g": 7,
+   "w": 5,
    "d": 0,
    "l": 2,
-   "gf": 10,
-   "ga": 8,
-   "pts": 12,
-   "gd": 2,
-   "rank": 4,
-   "rest": 32,
+   "gf": 13,
+   "ga": 10,
+   "pts": 15,
+   "gd": 3,
+   "rank": 3,
+   "rest": 31,
    "max": 108,
+   "min": 15,
+   "prob": {
+    "champ": 13.2,
+    "top3": 40.2,
+    "releg": 0.3,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "鹿島",
+   "g": 7,
+   "w": 4,
+   "d": 0,
+   "l": 3,
+   "gf": 14,
+   "ga": 13,
+   "pts": 12,
+   "gd": 1,
+   "rank": 4,
+   "rest": 31,
+   "max": 105,
    "min": 12,
    "prob": {
-    "champ": 8.8,
-    "top3": 29.2,
-    "releg": 0.9,
+    "champ": 4.1,
+    "top3": 17.6,
+    "releg": 1.9,
     "acl": 0.0
    }
   },
@@ -106,9 +106,9 @@
    "max": 107,
    "min": 11,
    "prob": {
-    "champ": 6.4,
-    "top3": 23.8,
-    "releg": 1.4,
+    "champ": 5.9,
+    "top3": 22.9,
+    "releg": 1.5,
     "acl": 0.0
    }
   },
@@ -127,9 +127,9 @@
    "max": 107,
    "min": 11,
    "prob": {
-    "champ": 5.8,
-    "top3": 22.5,
-    "releg": 1.6,
+    "champ": 5.5,
+    "top3": 21.8,
+    "releg": 1.4,
     "acl": 0.0
    }
   },
@@ -148,9 +148,9 @@
    "max": 106,
    "min": 10,
    "prob": {
-    "champ": 3.8,
-    "top3": 15.9,
-    "releg": 2.4,
+    "champ": 3.6,
+    "top3": 15.3,
+    "releg": 2.1,
     "acl": 0.0
    }
   },
@@ -169,9 +169,9 @@
    "max": 106,
    "min": 10,
    "prob": {
-    "champ": 3.5,
-    "top3": 14.5,
-    "releg": 2.9,
+    "champ": 2.9,
+    "top3": 13.4,
+    "releg": 2.5,
     "acl": 0.0
    }
   },
@@ -190,8 +190,8 @@
    "max": 106,
    "min": 10,
    "prob": {
-    "champ": 3.5,
-    "top3": 14.8,
+    "champ": 2.9,
+    "top3": 13.9,
     "releg": 2.7,
     "acl": 0.0
    }
@@ -211,9 +211,9 @@
    "max": 105,
    "min": 9,
    "prob": {
-    "champ": 2.0,
-    "top3": 10.7,
-    "releg": 5.0,
+    "champ": 1.8,
+    "top3": 9.8,
+    "releg": 4.2,
     "acl": 0.0
    }
   },
@@ -232,9 +232,9 @@
    "max": 105,
    "min": 9,
    "prob": {
-    "champ": 2.4,
-    "top3": 11.8,
-    "releg": 4.5,
+    "champ": 1.9,
+    "top3": 10.2,
+    "releg": 3.9,
     "acl": 0.0
    }
   },
@@ -253,9 +253,9 @@
    "max": 105,
    "min": 9,
    "prob": {
-    "champ": 2.5,
-    "top3": 11.2,
-    "releg": 4.3,
+    "champ": 1.8,
+    "top3": 9.7,
+    "releg": 4.1,
     "acl": 0.0
    }
   },
@@ -275,8 +275,8 @@
    "min": 6,
    "prob": {
     "champ": 0.3,
-    "top3": 2.1,
-    "releg": 18.4,
+    "top3": 1.9,
+    "releg": 17.2,
     "acl": 0.0
    }
   },
@@ -296,29 +296,29 @@
    "min": 6,
    "prob": {
     "champ": 0.3,
-    "top3": 2.3,
-    "releg": 18.1,
+    "top3": 2.0,
+    "releg": 17.2,
     "acl": 0.0
    }
   },
   {
    "team": "京都",
-   "g": 6,
+   "g": 7,
    "w": 1,
    "d": 2,
-   "l": 3,
-   "gf": 7,
-   "ga": 11,
+   "l": 4,
+   "gf": 9,
+   "ga": 14,
    "pts": 5,
-   "gd": -4,
+   "gd": -5,
    "rank": 15,
-   "rest": 32,
-   "max": 101,
+   "rest": 31,
+   "max": 98,
    "min": 5,
    "prob": {
     "champ": 0.1,
-    "top3": 1.1,
-    "releg": 26.6,
+    "top3": 0.4,
+    "releg": 37.2,
     "acl": 0.0
    }
   },
@@ -338,8 +338,8 @@
    "min": 4,
    "prob": {
     "champ": 0.1,
-    "top3": 0.6,
-    "releg": 34.8,
+    "top3": 0.5,
+    "releg": 35.1,
     "acl": 0.0
    }
   },
@@ -359,8 +359,8 @@
    "min": 4,
    "prob": {
     "champ": 0.1,
-    "top3": 0.5,
-    "releg": 36.9,
+    "top3": 0.6,
+    "releg": 34.8,
     "acl": 0.0
    }
   },
@@ -379,9 +379,9 @@
    "max": 100,
    "min": 4,
    "prob": {
-    "champ": 0.0,
-    "top3": 0.6,
-    "releg": 39.1,
+    "champ": 0.1,
+    "top3": 0.5,
+    "releg": 36.9,
     "acl": 0.0
    }
   },
@@ -400,9 +400,9 @@
    "max": 99,
    "min": 3,
    "prob": {
-    "champ": 0.0,
-    "top3": 0.2,
-    "releg": 48.5,
+    "champ": 0.1,
+    "top3": 0.3,
+    "releg": 47.5,
     "acl": 0.0
    }
   },
@@ -423,7 +423,7 @@
    "prob": {
     "champ": 0.0,
     "top3": 0.2,
-    "releg": 50.5,
+    "releg": 49.3,
     "acl": 0.0
    }
   }
@@ -1034,9 +1034,9 @@
    "date": "2026-09-11",
    "home": "京都",
    "away": "柏",
-   "status": "pending",
-   "hg": null,
-   "ag": null,
+   "status": "played",
+   "hg": 2,
+   "ag": 3,
    "venue": "サンガＳ"
   },
   {
@@ -1044,9 +1044,9 @@
    "date": "2026-09-11",
    "home": "神戸",
    "away": "鹿島",
-   "status": "pending",
-   "hg": null,
-   "ag": null,
+   "status": "played",
+   "hg": 2,
+   "ag": 1,
    "venue": "ノエスタ"
   },
   {
@@ -4231,7 +4231,7 @@
   }
  ],
  "line": {
-  "median": 43,
+  "median": 42,
   "p25": 41,
   "p75": 44,
   "safe": 45
