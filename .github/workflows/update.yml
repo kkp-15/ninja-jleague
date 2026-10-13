@@ -33,8 +33,25 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           if git diff --quiet; then
             echo "変更なし（試合が無かった日）"
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           else
             git add -A
             git commit -m "chore: J1データを自動更新 $(TZ=Asia/Tokyo date +%Y-%m-%d)"
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
+        id: commit
+
+      # GITHUB_TOKEN での push は deploy.yml（on: push）を起動しないので、ここで直接配信する（2026-10-13）
+      - name: 配信前に非公開ファイルを消す
+        if: steps.commit.outputs.changed == 'true'
+        run: rm -rf ./*.md .claude .github .gitignore .assetsignore wrangler.jsonc .wrangler scripts
+
+      - name: Cloudflare Pages へ配信
+        if: steps.commit.outputs.changed == 'true'
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          wranglerVersion: "4.85.0"
+          command: pages deploy . --project-name=ninja-jleague --branch=main --commit-dirty=true
