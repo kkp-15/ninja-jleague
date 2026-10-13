@@ -59,7 +59,10 @@ def build(d):
                 f'しか消化していません。降格確率は目安としてご覧ください。'
                 f'試合が進むほど精度が上がります。</p>')
 
-    return f'''<meta charset="utf-8">
+    return f'''<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
 <meta name="msvalidate.01" content="EF6E7C7B123A3218DAE3B152F5B0764D" />
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <title>J1残留ライン早見表｜降格ラインは勝点いくつ？2026-27｜無料・登録不要</title>
@@ -139,6 +142,8 @@ tr.r-acl{{background:#eef7ee}}
 footer{{text-align:center;font-size:11.5px;color:var(--sub);padding:20px 12px 30px}}
 footer a{{color:#8a6a4a}}
 </style>
+</head>
+<body>
 <header>
   <h1>J1の残留ラインは勝点いくつ？</h1>
   <div class="sub">明治安田J1リーグ 2026-27／全{d['played']+d['pending'] and 38}節・下位{releg}クラブが自動降格</div>
@@ -218,6 +223,8 @@ footer a{{color:#8a6a4a}}
 <script async src="https://www.googletagmanager.com/gtag/js?id={GA4}"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}
 gtag('js',new Date());gtag('config','{GA4}');</script>
+</body>
+</html>
 '''
 
 
