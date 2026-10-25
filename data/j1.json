@@ -1,11 +1,11 @@
 {
- "generated_at": "2026-10-25T08:33:39",
- "as_of": "2026-10-24",
+ "generated_at": "2026-10-26T08:28:59",
+ "as_of": "2026-10-25",
  "season": "2026/27",
  "league": "J1",
  "total_sections": 38,
- "played": 115,
- "pending": 265,
+ "played": 120,
+ "pending": 260,
  "standings": [
   {
    "team": "町田",
@@ -22,8 +22,29 @@
    "max": 105,
    "min": 27,
    "prob": {
-    "champ": 30.8,
-    "top3": 67.1,
+    "champ": 28.3,
+    "top3": 64.4,
+    "releg": 0.0,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "FC東京",
+   "g": 12,
+   "w": 8,
+   "d": 3,
+   "l": 1,
+   "gf": 27,
+   "ga": 8,
+   "pts": 27,
+   "gd": 19,
+   "rank": 2,
+   "rest": 26,
+   "max": 105,
+   "min": 27,
+   "prob": {
+    "champ": 24.6,
+    "top3": 61.3,
     "releg": 0.0,
     "acl": 0.0
    }
@@ -38,13 +59,13 @@
    "ga": 10,
    "pts": 26,
    "gd": 19,
-   "rank": 2,
+   "rank": 3,
    "rest": 26,
    "max": 104,
    "min": 26,
    "prob": {
-    "champ": 19.4,
-    "top3": 52.8,
+    "champ": 16.6,
+    "top3": 49.2,
     "releg": 0.0,
     "acl": 0.0
    }
@@ -59,34 +80,13 @@
    "ga": 19,
    "pts": 25,
    "gd": 6,
-   "rank": 3,
+   "rank": 4,
    "rest": 26,
    "max": 103,
    "min": 25,
    "prob": {
-    "champ": 15.1,
-    "top3": 46.9,
-    "releg": 0.0,
-    "acl": 0.0
-   }
-  },
-  {
-   "team": "FC東京",
-   "g": 11,
-   "w": 7,
-   "d": 3,
-   "l": 1,
-   "gf": 21,
-   "ga": 8,
-   "pts": 24,
-   "gd": 13,
-   "rank": 4,
-   "rest": 27,
-   "max": 105,
-   "min": 24,
-   "prob": {
-    "champ": 18.4,
-    "top3": 51.8,
+    "champ": 13.7,
+    "top3": 43.3,
     "releg": 0.0,
     "acl": 0.0
    }
@@ -106,9 +106,51 @@
    "max": 101,
    "min": 23,
    "prob": {
-    "champ": 8.2,
-    "top3": 32.3,
+    "champ": 7.3,
+    "top3": 30.0,
     "releg": 0.0,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "川崎Ｆ",
+   "g": 12,
+   "w": 6,
+   "d": 4,
+   "l": 2,
+   "gf": 25,
+   "ga": 18,
+   "pts": 22,
+   "gd": 7,
+   "rank": 6,
+   "rest": 26,
+   "max": 100,
+   "min": 22,
+   "prob": {
+    "champ": 4.2,
+    "top3": 20.0,
+    "releg": 0.1,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "浦和",
+   "g": 12,
+   "w": 7,
+   "d": 0,
+   "l": 5,
+   "gf": 21,
+   "ga": 23,
+   "pts": 21,
+   "gd": -2,
+   "rank": 7,
+   "rest": 26,
+   "max": 99,
+   "min": 21,
+   "prob": {
+    "champ": 2.7,
+    "top3": 13.7,
+    "releg": 0.2,
     "acl": 0.0
    }
   },
@@ -122,98 +164,98 @@
    "ga": 21,
    "pts": 20,
    "gd": 4,
-   "rank": 6,
+   "rank": 8,
    "rest": 26,
    "max": 98,
    "min": 20,
    "prob": {
-    "champ": 2.0,
-    "top3": 11.0,
-    "releg": 0.3,
-    "acl": 0.0
-   }
-  },
-  {
-   "team": "川崎Ｆ",
-   "g": 11,
-   "w": 5,
-   "d": 4,
-   "l": 2,
-   "gf": 23,
-   "ga": 17,
-   "pts": 19,
-   "gd": 6,
-   "rank": 7,
-   "rest": 27,
-   "max": 100,
-   "min": 19,
-   "prob": {
-    "champ": 2.7,
-    "top3": 14.1,
-    "releg": 0.3,
-    "acl": 0.0
-   }
-  },
-  {
-   "team": "浦和",
-   "g": 11,
-   "w": 6,
-   "d": 0,
-   "l": 5,
-   "gf": 20,
-   "ga": 23,
-   "pts": 18,
-   "gd": -3,
-   "rank": 8,
-   "rest": 27,
-   "max": 99,
-   "min": 18,
-   "prob": {
     "champ": 1.6,
-    "top3": 9.9,
-    "releg": 0.4,
+    "top3": 9.8,
+    "releg": 0.2,
     "acl": 0.0
    }
   },
   {
    "team": "横浜FM",
-   "g": 11,
+   "g": 12,
    "w": 4,
-   "d": 5,
+   "d": 6,
    "l": 2,
-   "gf": 15,
-   "ga": 11,
-   "pts": 17,
+   "gf": 16,
+   "ga": 12,
+   "pts": 18,
    "gd": 4,
    "rank": 9,
-   "rest": 27,
-   "max": 98,
-   "min": 17,
+   "rest": 26,
+   "max": 96,
+   "min": 18,
    "prob": {
-    "champ": 1.1,
-    "top3": 6.9,
-    "releg": 0.7,
+    "champ": 0.7,
+    "top3": 4.9,
+    "releg": 0.9,
     "acl": 0.0
    }
   },
   {
    "team": "岡山",
-   "g": 11,
+   "g": 12,
    "w": 5,
    "d": 1,
-   "l": 5,
-   "gf": 14,
-   "ga": 15,
+   "l": 6,
+   "gf": 15,
+   "ga": 17,
    "pts": 16,
-   "gd": -1,
+   "gd": -2,
    "rank": 10,
-   "rest": 27,
-   "max": 97,
+   "rest": 26,
+   "max": 94,
    "min": 16,
    "prob": {
-    "champ": 0.5,
-    "top3": 3.8,
-    "releg": 1.6,
+    "champ": 0.2,
+    "top3": 1.5,
+    "releg": 2.6,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "名古屋",
+   "g": 12,
+   "w": 4,
+   "d": 2,
+   "l": 6,
+   "gf": 14,
+   "ga": 18,
+   "pts": 14,
+   "gd": -4,
+   "rank": 11,
+   "rest": 26,
+   "max": 92,
+   "min": 14,
+   "prob": {
+    "champ": 0.1,
+    "top3": 0.7,
+    "releg": 5.4,
+    "acl": 0.0
+   }
+  },
+  {
+   "team": "Ｃ大阪",
+   "g": 12,
+   "w": 3,
+   "d": 5,
+   "l": 4,
+   "gf": 12,
+   "ga": 19,
+   "pts": 14,
+   "gd": -7,
+   "rank": 12,
+   "rest": 26,
+   "max": 92,
+   "min": 14,
+   "prob": {
+    "champ": 0.0,
+    "top3": 0.5,
+    "releg": 6.5,
     "acl": 0.0
    }
   },
@@ -227,77 +269,35 @@
    "ga": 20,
    "pts": 14,
    "gd": -10,
-   "rank": 11,
+   "rank": 13,
    "rest": 26,
    "max": 92,
    "min": 14,
    "prob": {
     "champ": 0.0,
-    "top3": 0.7,
-    "releg": 8.3,
-    "acl": 0.0
-   }
-  },
-  {
-   "team": "名古屋",
-   "g": 11,
-   "w": 4,
-   "d": 1,
-   "l": 6,
-   "gf": 13,
-   "ga": 17,
-   "pts": 13,
-   "gd": -4,
-   "rank": 12,
-   "rest": 27,
-   "max": 94,
-   "min": 13,
-   "prob": {
-    "champ": 0.1,
-    "top3": 1.1,
-    "releg": 5.5,
-    "acl": 0.0
-   }
-  },
-  {
-   "team": "Ｃ大阪",
-   "g": 11,
-   "w": 3,
-   "d": 4,
-   "l": 4,
-   "gf": 10,
-   "ga": 17,
-   "pts": 13,
-   "gd": -7,
-   "rank": 13,
-   "rest": 27,
-   "max": 94,
-   "min": 13,
-   "prob": {
-    "champ": 0.1,
-    "top3": 1.0,
-    "releg": 6.8,
+    "top3": 0.5,
+    "releg": 7.0,
     "acl": 0.0
    }
   },
   {
    "team": "長崎",
-   "g": 11,
+   "g": 12,
    "w": 3,
    "d": 3,
-   "l": 5,
+   "l": 6,
    "gf": 15,
-   "ga": 18,
+   "ga": 19,
    "pts": 12,
-   "gd": -3,
+   "gd": -4,
    "rank": 14,
-   "rest": 27,
-   "max": 93,
+   "rest": 26,
+   "max": 90,
    "min": 12,
    "prob": {
-    "champ": 0.1,
-    "top3": 0.5,
-    "releg": 9.3,
+    "champ": 0.0,
+    "top3": 0.2,
+    "releg": 13.2,
     "acl": 0.0
    }
   },
@@ -318,7 +318,7 @@
    "prob": {
     "champ": 0.0,
     "top3": 0.1,
-    "releg": 23.8,
+    "releg": 21.0,
     "acl": 0.0
    }
   },
@@ -338,29 +338,29 @@
    "min": 10,
    "prob": {
     "champ": 0.0,
-    "top3": 0.1,
-    "releg": 30.0,
+    "top3": 0.0,
+    "releg": 27.2,
     "acl": 0.0
    }
   },
   {
    "team": "水戸",
-   "g": 11,
+   "g": 12,
    "w": 2,
    "d": 3,
-   "l": 6,
+   "l": 7,
    "gf": 12,
-   "ga": 16,
+   "ga": 22,
    "pts": 9,
-   "gd": -4,
+   "gd": -10,
    "rank": 17,
-   "rest": 27,
-   "max": 90,
+   "rest": 26,
+   "max": 87,
    "min": 9,
    "prob": {
     "champ": 0.0,
     "top3": 0.0,
-    "releg": 29.3,
+    "releg": 39.4,
     "acl": 0.0
    }
   },
@@ -381,7 +381,7 @@
    "prob": {
     "champ": 0.0,
     "top3": 0.0,
-    "releg": 54.1,
+    "releg": 51.5,
     "acl": 0.0
    }
   },
@@ -402,28 +402,28 @@
    "prob": {
     "champ": 0.0,
     "top3": 0.0,
-    "releg": 65.5,
+    "releg": 63.0,
     "acl": 0.0
    }
   },
   {
    "team": "千葉",
-   "g": 11,
+   "g": 12,
    "w": 1,
-   "d": 3,
+   "d": 4,
    "l": 7,
-   "gf": 10,
-   "ga": 22,
-   "pts": 6,
+   "gf": 12,
+   "ga": 24,
+   "pts": 7,
    "gd": -12,
    "rank": 20,
-   "rest": 27,
-   "max": 87,
-   "min": 6,
+   "rest": 26,
+   "max": 85,
+   "min": 7,
    "prob": {
     "champ": 0.0,
     "top3": 0.0,
-    "releg": 64.1,
+    "releg": 61.7,
     "acl": 0.0
    }
   }
@@ -1584,50 +1584,50 @@
    "date": "2026-10-25",
    "home": "名古屋",
    "away": "横浜FM",
-   "status": "pending",
-   "hg": null,
-   "ag": null,
+   "status": "played",
+   "hg": 1,
+   "ag": 1,
    "venue": "豊田ス"
-  },
-  {
-   "section": 12,
-   "date": "2026-10-25",
-   "home": "浦和",
-   "away": "長崎",
-   "status": "pending",
-   "hg": null,
-   "ag": null,
-   "venue": "埼玉"
   },
   {
    "section": 12,
    "date": "2026-10-25",
    "home": "Ｃ大阪",
    "away": "千葉",
-   "status": "pending",
-   "hg": null,
-   "ag": null,
+   "status": "played",
+   "hg": 2,
+   "ag": 2,
    "venue": "ハナサカ"
   },
   {
    "section": 12,
    "date": "2026-10-25",
-   "home": "FC東京",
-   "away": "水戸",
-   "status": "pending",
-   "hg": null,
-   "ag": null,
-   "venue": "味スタ"
+   "home": "浦和",
+   "away": "長崎",
+   "status": "played",
+   "hg": 1,
+   "ag": 0,
+   "venue": "埼玉"
   },
   {
    "section": 12,
    "date": "2026-10-25",
    "home": "川崎Ｆ",
    "away": "岡山",
-   "status": "pending",
-   "hg": null,
-   "ag": null,
+   "status": "played",
+   "hg": 2,
+   "ag": 1,
    "venue": "Ｕ等々力"
+  },
+  {
+   "section": 12,
+   "date": "2026-10-25",
+   "home": "FC東京",
+   "away": "水戸",
+   "status": "played",
+   "hg": 6,
+   "ag": 0,
+   "venue": "味スタ"
   },
   {
    "section": 13,
@@ -4232,8 +4232,8 @@
  ],
  "line": {
   "median": 40,
-  "p25": 39,
-  "p75": 42,
+  "p25": 38,
+  "p75": 41,
   "safe": 43
  },
  "history": [
