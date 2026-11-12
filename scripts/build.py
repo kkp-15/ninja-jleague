@@ -213,9 +213,9 @@ footer a{{color:#8a6a4a}}
 <footer style="text-align:center;padding:2rem 1rem 2.5rem;font-size:0.78rem;color:#94a3b8;line-height:2;border-top:1px solid #f0e6d2;margin-top:0;background:#fffcf7;">
   <div style="font-weight:800;color:#8b6b3d;font-size:0.85rem;margin-bottom:0.4rem;">web忍者の砦</div>
   <div>
-    <a href="https://kkpwebninja.com/" target="_blank" rel="noopener" style="color:#8b6b3d;text-decoration:none;margin:0 0.5rem;">本丸トップ</a>·
-    <a href="https://privacypolicy.kkpwebninja.com/" target="_blank" rel="noopener" style="color:#8b6b3d;text-decoration:none;margin:0 0.5rem;">プライバシーポリシー</a>·
-    <a href="https://kkpwebninja.com/otoiawase" target="_blank" rel="noopener" style="color:#8b6b3d;text-decoration:none;margin:0 0.5rem;">お問い合わせ</a>
+    <a href="https://kkpwebninja.com/" target="_blank" rel="noopener" style="display:inline-block;padding:10px 2px;color:#8b6b3d;text-decoration:none;margin:0 0.5rem;">本丸トップ</a>·
+    <a href="https://privacypolicy.kkpwebninja.com/" target="_blank" rel="noopener" style="display:inline-block;padding:10px 2px;color:#8b6b3d;text-decoration:none;margin:0 0.5rem;">プライバシーポリシー</a>·
+    <a href="https://kkpwebninja.com/otoiawase" target="_blank" rel="noopener" style="display:inline-block;padding:10px 2px;color:#8b6b3d;text-decoration:none;margin:0 0.5rem;">お問い合わせ</a>
   </div>
   <div style="margin-top:0.5rem;color:#bfa97a;">© 2025-2026 web忍者の砦</div>
 </footer>
