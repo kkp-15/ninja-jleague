@@ -219,9 +219,8 @@ footer a{{color:#8a6a4a}}
   </div>
   <div style="margin-top:0.5rem;color:#bfa97a;">© 2025-2026 web忍者の砦</div>
 </footer>
-<script async src="https://www.googletagmanager.com/gtag/js?id={GA4}"></script>
 <script>window.dataLayer=window.dataLayer||[];function gtag(){{dataLayer.push(arguments);}}
-gtag('js',new Date());gtag('config','{GA4}');</script>
+if(/(^|\\.)kkpwebninja\\.com$/.test(location.hostname)){{var gs=document.createElement('script');gs.async=true;gs.src='https://www.googletagmanager.com/gtag/js?id={GA4}';document.head.appendChild(gs);gtag('js',new Date());gtag('config','{GA4}');}}</script>
 </body>
 </html>
 '''
